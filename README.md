@@ -75,7 +75,7 @@ Example:
 	date - notification date, javascript object 
 	message - notification message
 	id - notification id, allowed only numbers
-	repeat - repeat value, see Repeat values:
+	repeat - repeat value, see `Repeat constants`. If no one set -  notification will be run once
 	sound - sound name, options "Plugin files" (allows caf, wav for iOS, wav,mp3 for Android)
 	
 	hasAction - has notification action (iOS spec)
